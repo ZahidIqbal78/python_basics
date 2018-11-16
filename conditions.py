@@ -22,3 +22,5 @@ someList = [2,4,6,8,10,12]
 if someIntTobeSearched in someList:
     print("someIntTobeSearched is found in somelist")
 
+print("-------------------------------------------------")
+
