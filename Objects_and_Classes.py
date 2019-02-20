@@ -10,6 +10,11 @@ class class1:
 anObject = class1()
 
 #anObject.classVariable
-print(anObject.classVariable)
+print('1 ' + anObject.classVariable)
 
 print(anObject.class1Function())
+
+
+#lest change the value of the variable in class1
+anObject.classVariable = "yabbbbaaa daaabbba doooo"
+print('3 ' + anObject.classVariable)
